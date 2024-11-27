@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(85, 110, 255);
+    max-width: 1000px;
+    margin: auto;
+    margin-top: 20px;
+    padding:30px
+}
+
+nav a{
+    text-transform: uppercase;
+    letter-spacing:1px;
+    text-decoration: none;
+}
+
+header, main{
+    background-color: rgb(214, 230, 253);
+    border-radius: 20px;
+    padding:20px;
+    min-height: 100px;
+}
+
+h1{
+    text-align: center;
+    background-color: white;
+    font-size: 50px;
+    padding-top: 20px;
+    padding-bottom: 20pxS;
+}
+
+p{
+    color: aliceblue;
+}
